@@ -1,2 +1,4 @@
 # hello-world
-Learning GitHub with the Hello World repository
+
+
+This is Daehlon.  Just trying to figure out how everything here works.
